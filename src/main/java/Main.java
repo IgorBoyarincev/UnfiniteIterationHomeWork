@@ -7,12 +7,5 @@ public class Main {
                 break;
             }
         }
-        /**
-         * тоже вариант
-         */
-//        Randoms randoms=new Randoms(90,100);
-//        while (randoms.iterator().hasNext()){
-//            System.out.print(randoms.iterator().next()+" ");
-//        }
     }
 }
